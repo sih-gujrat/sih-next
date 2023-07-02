@@ -1,5 +1,5 @@
 ## GPT-READER 
-- LINK OF THE WEBSITE :- https://gpt-reader-beige.vercel.app/
+- LINK OF THE WEBSITE :- https://gpt-reader-beige.vercel.app/ <br/><br/>
 
 ## TECH-STACK
 - FRONT-END :- NEXT.JS, TAILWIND, STREAMLIT <br/><br/>
@@ -8,7 +8,7 @@
 
 ## DESCRIPTION
 
-- GPT-READER is an AI-powered platform that automates the analysis of visual and textual data. It leverages advanced algorithms and machine learning models to provide accurate and efficient insights, empowering businesses and researchers to make data-driven decisions with confidence.
+- GPT-READER is an AI-powered platform that automates the analysis of visual and textual data. It leverages advanced algorithms and machine learning models to provide accurate and efficient insights, empowering businesses and researchers to make data-driven decisions with confidence.<br/><br/>
 
 ## FEATURES
 
@@ -16,7 +16,7 @@
 - Seamless Integration: Simultaneously process and correlate image and text data for a holistic understanding of information.
 - Language Support: Analyze and extract insights from textual data in multiple languages.
 - Scalability: Efficiently handle large volumes of data for seamless scaling of analysis capabilities.
-- Security and Privacy: Implement robust security measures to ensure data confidentiality.
+- Security and Privacy: Implement robust security measures to ensure data confidentiality.<br/><br/>
 
 ## INSTALLATION
 
@@ -38,7 +38,7 @@
 
 - Powerful generative model: With Flan T5 Alpaca (770 M) as the backbone of its generative model, GPT-READER empowers you to generate high-quality content effortlessly, helping you streamline your content creation process.
 
-- Efficient vector store database: GPT-READER is integrated with Elastic Search, a robust and scalable vector store database, allowing you to store and retrieve data efficiently, ensuring quick access to the information you need.
+- Efficient vector store database: GPT-READER is integrated with Elastic Search, a robust and scalable vector store database, allowing you to store and retrieve data efficiently, ensuring quick access to the information you need.<br/><br/>
 
 ## link to demo
 
