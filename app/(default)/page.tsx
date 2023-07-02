@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'GPT-READER ',
-  description: 'Page description',
+  description: 'Created by- Yash, Davin, Aditya',
 }
 
 import Hero from '@/components/hero'
